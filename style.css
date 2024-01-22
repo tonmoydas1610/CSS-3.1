@@ -1,0 +1,18 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    outline: none;
+    box-sizing: border-box;
+    border: none;
+}
+
+.bg_image{
+    background-image: url("https://t3.ftcdn.net/jpg/05/71/06/76/360_F_571067620_JS5T5TkDtu3gf8Wqm78KoJRF1vobPvo6.jpg");
+    background-position: center;
+}
+#bg_color{
+    background-image:linear-gradient(red
+    orange
+    blue)
+}
+  
